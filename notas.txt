@@ -1,4 +1,7 @@
  Ejercicio de git - versión 1
 
  Ejercicio de git - versión 2
+
+ Autor: Johana Rivero
+
  
